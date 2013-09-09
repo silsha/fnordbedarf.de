@@ -1,0 +1,66 @@
+body{
+	background: url('../img/bg.jpg');
+	color: #eee;
+}
+
+h1{
+	font-family: 'Quattrocento', serif;
+	color: #000 !important;
+}
+
+.center{
+	margin: auto;
+}
+
+#logowrapper{
+	position: relative;
+	text-align: center;
+	top:50px;
+}
+
+#logowrapper img{
+	height: 100px;
+	margin: -300px;
+	padding: -20px;
+}
+
+.jumbotron{
+	background-image: url(../img/mate.jpg);
+	background-size: 100% auto;
+	background-position: 0 -110px;
+	height: 400px;
+	margin-top: -120px;
+}
+
+.jumbotron h1{
+	position: relative;
+	top: 4em;
+	left: -1em;
+}
+
+#menuleft{
+	position: relative;
+	width: 40%;
+	text-align: right;
+}
+
+.navbar{
+	height: 0;
+}
+
+.navbar-nav{
+	margin-top: -20px;
+}
+
+.contentwrapper{
+	color: #111;
+	width: 100%;
+	background-color: #eee;
+	margin-top: -30px;
+	padding: 20px 30px;
+}
+
+.content{
+	margin: auto;
+	width: 70%;
+}
