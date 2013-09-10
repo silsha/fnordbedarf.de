@@ -64,3 +64,8 @@ h1{
 	margin: auto;
 	width: 70%;
 }
+
+.responsive-utilities td.is-da {
+	color: #468847;
+	background-color: #dff0d8 !important;
+}
