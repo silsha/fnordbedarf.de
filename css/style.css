@@ -52,7 +52,7 @@ h1{
 	margin-top: -20px;
 }
 
-.contentwrapper{
+#contentwrapper{
 	color: #111;
 	width: 100%;
 	background-color: #eee;
@@ -60,7 +60,7 @@ h1{
 	padding: 20px 30px;
 }
 
-.content{
+#content{
 	margin: auto;
 	width: 70%;
 }
