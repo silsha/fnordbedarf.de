@@ -5,8 +5,53 @@
 		"price": 0.61
 	},
 	{
+		"name": "Club-Mate Winter Edition",
+		"available": false,
+		"price": "-"
+	},
+	{
 		"name": "Club-Mate Cola",
 		"available": true,
 		"price": 0.54
-}
+	},
+	{
+		"name": "Club-Mate Granat",
+		"available": false,
+		"price": "-"
+	},
+	{
+		"name": "Kraftstoff Ice-Tea",
+		"available": true,
+		"price": 0.66
+	},
+	{
+		"name": "Flora Power",
+		"available": true,
+		"price": 0.61
+	},
+	{
+		"name": "Hermann Brause Rhabarber-Erdbeer Schorle",
+		"available": true,
+		"price": 0.74
+	},
+	{
+		"name": " Hermann Brause Apfel-Kirsch Schorle",
+		"available": true,
+		"price": 0.64
+	},
+	{
+		"name": "Pimpinella",
+		"available": true,
+		"price": 0.71
+	},
+	{
+		"name": "Hausmarke Cola trifft Kaffee",
+		"available": true,
+		"price": 0.54
+	},
+	{
+		"name": "Hausmarke Cola trifft Lakritz",
+		"available": true,
+		"price": 0.54
+	}
 ]
