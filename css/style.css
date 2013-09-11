@@ -69,3 +69,23 @@ h1{
 	color: #468847;
 	background-color: #dff0d8 !important;
 }
+
+.noch-fragen{
+	text-align: center;
+}
+
+#fragen{
+	margin-top: -40px;
+}
+
+.mail, .twitter, .telefon{
+	display: block;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.trenner{
+	border-bottom: 1px solid #aaa;
+	margin: 0 30px;
+	padding: 10px 0;
+}
