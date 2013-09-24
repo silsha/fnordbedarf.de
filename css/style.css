@@ -75,7 +75,7 @@ h1{
 	text-align: center;
 }
 
-.mail, .twitter, .telefon{
+.mail, .twitter, .telefon, .wiki{
 	display: block;
 	font-weight: bold;
 	font-size: 18px;
