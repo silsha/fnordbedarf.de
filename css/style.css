@@ -1,3 +1,16 @@
+@font-face {
+  font-family: 'Quattrocento';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Quattrocento'), url(/fonts/quattrocento.woff) format('woff');
+}
+@font-face {
+  font-family: 'Quattrocento';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Quattrocento Bold'), local('Quattrocento-Bold'), url(/fonts/quattrocentobold.woff) format('woff');
+}
+
 body{
 	background: url('../img/bg.jpg');
 	color: #eee;
