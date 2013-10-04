@@ -9,7 +9,7 @@ $(document).ready(function () {
                 tr.append("<td class='success'>✔ Verfügbar</td>");
             else   
                 tr.append("<td class='danger'>✘ Nicht verfügbar</td>");
-            tr.append("<td>" + (json[i].price * json[i].flaschen).toFixed(2) + " €</td>");
+            tr.append("<td>" + (json[i].price * 1).toFixed(2) + " €</td>");
             $('#angebot').append(tr);
         }
     });
